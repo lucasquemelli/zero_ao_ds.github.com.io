@@ -31,3 +31,17 @@ Este é um repositório para depositar comandos aprendidos em um curso preparat�
 
 ![image](https://user-images.githubusercontent.com/81119854/129809116-a939aa4c-f9d1-4daf-93bf-90d1fbf6f3b3.png)
 
+![image](https://user-images.githubusercontent.com/81119854/129809209-e08738e3-b17b-4b8a-af61-28a3003fafb5.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129809240-e621532b-84ca-41bd-8da7-38034f955b40.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129809320-6707b844-fdae-4983-a38e-01135f932abf.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129809354-2c60a226-31a7-4739-8272-de6dae1c36ec.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129809403-713420c2-ae1e-4b12-b162-ea8279cda345.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129809436-337a5264-d325-415e-a1ff-9efb27375905.png)
+
+![image](https://user-images.githubusercontent.com/81119854/129809474-07760118-8d71-4a1f-86f6-d1e227f11964.png)
+
