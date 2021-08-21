@@ -53,3 +53,7 @@ Este é um repositório para depositar comandos aprendidos em um curso preparat�
 
 ![image](https://user-images.githubusercontent.com/81119854/129809735-5c93ed12-bacd-4538-9acf-506f0472187c.png)
 
+# Transformar dados
+
+![image](https://user-images.githubusercontent.com/81119854/130325392-2eff8ac3-af83-42dc-a3b8-e9b3f059735e.png)
+
