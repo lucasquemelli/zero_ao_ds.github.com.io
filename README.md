@@ -95,4 +95,8 @@ Este é um repositório para depositar comandos aprendidos em um curso preparat�
 
 ![image](https://user-images.githubusercontent.com/81119854/130868178-9c5a830f-2e1e-4198-b86b-af997b514d7c.png)
 
+- Condicional de multiplicação: 1 * 1
+
 ![image](https://user-images.githubusercontent.com/81119854/130868632-b3453d69-6925-46ef-96df-1efe7e44a625.png)
+
+- Condicional de soma: 1 * 1
