@@ -113,3 +113,6 @@ Para usar o LOOP FOR, primeiro devemos saber o número de linhas do dataframe.
 
 ![image](https://user-images.githubusercontent.com/81119854/130876364-0b8c2fcc-a2e0-4043-9717-1c097510bbf7.png)
 
+Depois podemos aplicar o LOOP:
+
+![image](https://user-images.githubusercontent.com/81119854/130876418-1bf6f39b-4574-4be8-a39e-7f93d9546a19.png)
