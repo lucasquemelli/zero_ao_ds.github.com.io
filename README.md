@@ -106,3 +106,10 @@ Este é um repositório para depositar comandos aprendidos em um curso preparat�
 - Condicional para classificar imóveis por preço
 
 ![image](https://user-images.githubusercontent.com/81119854/130876269-349f20bc-c740-4e56-ab96-50b52dc82b06.png)
+
+- Condicional para classificar imóveis por preço usando o LOOP FOR
+
+Para usar o LOOP FOR, primeiro devemos saber o número de linhas do dataframe.
+
+![image](https://user-images.githubusercontent.com/81119854/130876364-0b8c2fcc-a2e0-4043-9717-1c097510bbf7.png)
+
