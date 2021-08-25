@@ -102,3 +102,7 @@ Este é um repositório para depositar comandos aprendidos em um curso preparat�
 - Condicional de soma: 1 + 0 ou 1 + 1 
 
 ![image](https://user-images.githubusercontent.com/81119854/130869859-f48904d9-2aaa-460a-a699-b3235e892560.png)
+
+- Condicional para classificar imóveis por preço
+
+![image](https://user-images.githubusercontent.com/81119854/130876269-349f20bc-c740-4e56-ab96-50b52dc82b06.png)
