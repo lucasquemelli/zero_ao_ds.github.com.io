@@ -99,4 +99,6 @@ Este é um repositório para depositar comandos aprendidos em um curso preparat�
 
 ![image](https://user-images.githubusercontent.com/81119854/130868632-b3453d69-6925-46ef-96df-1efe7e44a625.png)
 
-- Condicional de soma: 1 * 1
+- Condicional de soma: 1 + 0 ou 1 + 1 
+
+![image](https://user-images.githubusercontent.com/81119854/130869859-f48904d9-2aaa-460a-a699-b3235e892560.png)
