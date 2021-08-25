@@ -74,3 +74,8 @@ Este é um repositório para depositar comandos aprendidos em um curso preparat�
 ![image](https://user-images.githubusercontent.com/81119854/130326794-0c8e3487-5bd8-489f-876b-b755a7f25205.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/130326814-d304aec0-6cbb-469d-a53d-e228facd76a1.png)
+
+# Estruturas de dados e de controle
+
+![image](https://user-images.githubusercontent.com/81119854/130847347-c8d99902-2f68-4e50-8d73-6bd4640d2f24.png)
+
