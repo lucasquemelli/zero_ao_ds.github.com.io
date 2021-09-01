@@ -138,3 +138,4 @@ Depois podemos aplicar o LOOP:
 ![image](https://user-images.githubusercontent.com/81119854/131728090-d1c07f87-1c63-47db-b6ad-1d2c5dd8304f.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131728151-e6bc1d5e-0cb0-4db2-8b29-27e2912748a9.png)
+
