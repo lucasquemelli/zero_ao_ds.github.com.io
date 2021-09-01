@@ -128,3 +128,7 @@ Depois podemos aplicar o LOOP:
 ![image](https://user-images.githubusercontent.com/81119854/131722254-7665e914-97c5-4f4e-8202-251ac7e7ccf4.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131722302-116252d9-9a10-497d-bb1b-f0664c1676da.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131722400-f77df1a6-8ae9-4ee6-9e57-11002f2e7af8.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131722444-1cc9e1f6-9d1d-4987-8ac6-af81a168d91e.png)
