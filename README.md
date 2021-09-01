@@ -122,3 +122,9 @@ Depois podemos aplicar o LOOP:
 ![image](https://user-images.githubusercontent.com/81119854/131722069-0c8a26da-21e0-4993-84a7-6dc33ddaee18.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131722131-f8ee3af8-8786-469d-968f-d079a2cbbaf9.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131722200-aaa7d802-97fe-4eaa-b481-b7f5ae72ca97.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131722254-7665e914-97c5-4f4e-8202-251ac7e7ccf4.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131722302-116252d9-9a10-497d-bb1b-f0664c1676da.png)
